@@ -1,0 +1,75 @@
+
+/* General y plantilla */
+body {
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+}
+
+header {
+    background-color: #000;
+    color: #ff9900;
+    text-align: center;
+}
+header nav a {
+    color: #ff9900;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+h1 {
+    margin: 0;
+}
+
+.equipo h2 {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 1em;
+}
+.jug img {
+    width: 120px;
+}
+
+/* Aqui empieza el inicio */
+
+.intro {
+    text-align: center;
+  
+}
+
+.intro h2 {
+    color: #003366;
+    font-size: 1.8em;
+    margin-bottom: 0.5em;
+}
+
+.intro p {
+    color: #555;
+
+}
+
+.noticias,
+.eventos {
+    padding: 1.5em;
+    margin-bottom: 2em;
+}
+
+.noticias h3,
+.eventos h3 {
+    color: #003366;
+    margin-bottom: 1em;
+}
+
+.noticias article {
+    margin-bottom: 1.5em;
+}
+
+.noticias article h4 {
+    color: #ff9900;
+}
+
+
+.eventos ul li strong {
+    color: #003366;
+}
+
